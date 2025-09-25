@@ -11,6 +11,6 @@ Goal: Learn AI by building small projects and eventually create AI-powered busin
 - **What I learned:** How ML models learn from examples and make predictions.
 
 ### Week 2 — Transformers
-- **Notebook:** `week2_transformers.ipynb`  
+- **Notebook:** [Week 2: Transormers](week2_transformers.ipynb)  
 - **What I did:** Ran a small transformer model (`distilgpt2`) to generate text.  
 - **What I learned:** How LLMs generate text and what `max_new_tokens` does.
