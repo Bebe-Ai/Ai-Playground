@@ -6,7 +6,7 @@ Goal: Learn AI by building small projects and eventually create AI-powered busin
 ## Modules
 
 ### Week 1 — Basics
-- **Notebook:** `week1_spam_detector.ipynb`  
+- **Notebook:** (week1_spam_detector.ipynb)  
 - **What I did:** Built my first text classifier (spam vs ham) using TF-IDF + Logistic Regression.  
 - **What I learned:** How ML models learn from examples and make predictions.
 
