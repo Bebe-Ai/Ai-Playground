@@ -5,17 +5,17 @@ Goal: Learn AI by building small projects and eventually create AI-powered busin
 
 ## Modules
 
-### Week 1 — Basics
+### Week 1 - Basics
 - **Notebook:** [Week 1: Spam Detector](week1_spam_detector.ipynb) 
 - **What I did:** Built my first text classifier (spam vs ham) using TF-IDF + Logistic Regression.  
 - **What I learned:** How ML models learn from examples and make predictions.
 
-### Week 2 — Transformers
+### Week 2 - Transformers
 - **Notebook:** [Week 2: Transormers](week2_transformers.ipynb)  
 - **What I did:** Ran a small transformer model (`distilgpt2`) to generate text.  
 - **What I learned:** How LLMs generate text and what `max_new_tokens` does.
 
-### 🧠 Week 3 - Customer Support AI Bot
+### Week 3 - Customer Support AI Bot
 
 This project contains a Google Colab notebook that trains and tests a **custom Question-Answering AI model** for customer support.  
 The goal is to help businesses automatically respond to customer queries such as shipping, returns, or product details.
